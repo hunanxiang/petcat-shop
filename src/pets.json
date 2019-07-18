@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/cat01.jpg",
+    "age": 3,
+    "breed": "Siamese kitten",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/cat02.jpg",
+    "age": 3,
+    "breed": "Norwegian Forest Cat",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/cat03.jpg",
+    "age": 2,
+    "breed": "Persian cat",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/cat04.jpg",
+    "age": 2,
+    "breed": "Somali Cat",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/cat05.jpg",
+    "age": 2,
+    "breed": "Siamese kitten",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/cat06.jpg",
+    "age": 3,
+    "breed": "Norwegian Forest Cat",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/cat07.jpg",
+    "age": 3,
+    "breed": "Persian cat",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "images/cat08.jpg",
+    "age": 3,
+    "breed": "Siamese kitten",
+    "location": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/cat09.jpg",
+    "age": 2,
+    "breed": "Puppet cat",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/cat10.jpg",
+    "age": 3,
+    "breed": "Russian knapweed",
+    "location": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/cat11.jpg",
+    "age": 2,
+    "breed": "Somali Cat",
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/cat12.jpg",
+    "age": 3,
+    "breed": "Abyssinian cat",
+    "location": "Windsor, Montana"
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/cat13.jpg",
+    "age": 3,
+    "breed": "Bombay Cat",
+    "location": "Kingstowne, Nevada"
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/cat14.jpg",
+    "age": 4,
+    "breed": "Bombay Cat",
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "images/cat15.jpg",
+    "age": 2,
+    "breed": "Exotic Shorthair",
+    "location": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/cat16.jpg",
+    "age": 2,
+    "breed": "Norwegian Forest Cat",
+    "location": "Dawn, Wisconsin"
+  }
+]
